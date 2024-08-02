@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/day03-microservice01/ziliao/hm-cart.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/day03-microservice01/ziliao/hm-pay.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/day03-microservice01/ziliao/hm-trade.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/day03-microservice01/ziliao/hm-user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/day03-microservice01/ziliao/nacos.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/day03-microservice01/ziliao/user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/day05-serviceProtectionAndDistribution/ziliao/seata-tc.sql" dialect="MySQL" />
+  </component>
+</project>
